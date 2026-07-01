@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elginpestcontrolco.com/sitemap.xml
